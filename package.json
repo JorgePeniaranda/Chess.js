@@ -13,9 +13,9 @@
     "format": "prettier --write .",
     "format:check": "prettier --check ."
   },
-  "author": "",
-  "license": "ISC",
-  "description": "",
+  "author": "JorgePeniaranda",
+  "license": "MIT",
+  "description": "Epic Chess on Console",
   "devDependencies": {
     "eslint-config-love": "^87.0.0",
     "nodemon": "^3.1.7",
